@@ -1,11 +1,14 @@
 {
-  "name": "reanimated-bottom-sheet",
+  "name": "@react-native-oh-tpl/reanimated-bottom-sheet",
   "version": "1.0.0-alpha.22",
   "description": "Bottom sheet component",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
   "react-native": "lib/module/index.js",
   "types": "lib/typescript/index.d.ts",
+  "harmony": {
+    "alias": "reanimated-bottom-sheet"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint --ext .js,.ts,.tsx .",
@@ -38,12 +41,14 @@
     "react-native-gesture-handler": "*",
     "react-native-reanimated": "*"
   },
+  "dependencies":{
+    "react-native-builder-bob": "^0.30.0",
+    "@gorhom/bottom-sheet": "^4.6.4"
+  },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
     "@react-native-community/bob": "^0.9.3",
     "@release-it/conventional-changelog": "^1.1.0",
-    "@types/react": "^16.8.14",
-    "@types/react-native": "^0.57.50",
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
     "babel-eslint": "^10.0.1",
@@ -66,13 +71,11 @@
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
-  "@react-native-community/bob": {
+  "react-native-builder-bob": {
     "source": "src",
     "output": "lib",
     "targets": [
       "commonjs",
-      "module",
-      "typescript"
-    ]
+      "module"]
   }
 }
