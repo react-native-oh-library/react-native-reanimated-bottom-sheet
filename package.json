@@ -1,6 +1,6 @@
 {
   "name": "@react-native-oh-tpl/reanimated-bottom-sheet",
-  "version": "1.0.0-alpha.22",
+  "version": "1.0.0-alpha.22-0.0.1",
   "description": "Bottom sheet component",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
