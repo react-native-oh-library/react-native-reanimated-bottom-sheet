@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "reanimated-bottom-sheet",
+        "License": "MIT License",
+        "License File": "https://github.com/osdnk/react-native-reanimated-bottom-sheet/blob/master/LICENSE.md",
+        "Version Number": "1.0.0-alpha.22",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/osdnk/react-native-reanimated-bottom-sheet",
+        "Description": "reanimated-bottom-sheet library for react-native"
+    }
+]
