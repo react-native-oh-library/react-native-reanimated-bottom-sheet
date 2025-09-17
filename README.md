@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/reanimated-bottom-sheet
+# @react-native-ohos/reanimated-bottom-sheet
 
 本项目基于 [reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
 
