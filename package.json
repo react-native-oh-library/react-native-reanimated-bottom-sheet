@@ -1,6 +1,6 @@
 {
   "name": "@react-native-ohos/reanimated-bottom-sheet",
-  "version": "1.0.1-rc.1",
+  "version": "1.1.0-rc.1",
   "description": "Bottom sheet component",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
