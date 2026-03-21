@@ -4,9 +4,9 @@
 
 ## 文档地址 / Documentation URL 
 
-[中文 / Chinese](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/reanimated-bottom-sheet.md)
+[中文 / Chinese](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/zh-cn/react-native-reanimated-bottom-sheet.md)
 
-[英文 / English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-en/reanimated-bottom-sheet.md)
+[英文 / English](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/en/react-native-reanimated-bottom-sheet.md)
 
 ## 请悉知 / Acknowledgements
 
