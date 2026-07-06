@@ -1,13 +1,13 @@
-# @react-native-oh-tpl/reanimated-bottom-sheet
+#  迁移声明
 
-本项目基于 [reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+- 本仓库已迁移至 GitCode：[CPF-RN/react-native-reanimated-bottom-sheet](https://gitcode.com/CPF-RN/react-native-reanimated-bottom-sheet)。
+- 包名已更改为 `@react-native-ohos/reanimated-bottom-sheet`，支持直接从 npm 下载。
+- 更多详情请查阅新仓库的 README 文件。
+- 本仓库旧版本的文档已归档：[链接](/doc/zh-cn.md)
 
-## 文档地址 / Documentation URL 
+# Migration Announcement
 
-[中文 / Chinese](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/reanimated-bottom-sheet.md)
-
-[英文 / English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-en/reanimated-bottom-sheet.md)
-
-## 请悉知 / Acknowledgements
-
-本项目基于 [The MIT License (MIT)](https://github.com/osdnk/react-native-reanimated-bottom-sheet/blob/master/LICENSE.md) ，请自由地享受和参与开源。
+- This repository has been migrated to GitCode：[CPF-RN/react-native-reanimated-bottom-sheet](https://gitcode.com/CPF-RN/react-native-reanimated-bottom-sheet)       
+- The package name has been changed to `@react-native-ohos/reanimated-bottom-sheet` and is now available for direct download from npm.
+- For more details, please refer to the README in the new repository.
+- Archived documentation for versions in this repository can be found here: [Link](/doc/en.md)
